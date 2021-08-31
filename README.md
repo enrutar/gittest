@@ -1,2 +1,2 @@
 # gittest
-prueba de git AAAAAAAAAqweqwqweqweA
+prueba de git AAAAAAAAAqweqwqweqweA BBBBBBBBBB
